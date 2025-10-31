@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sidebar {
+    position: fixed;
+    display: flex;
+    height: 100vh;
+    padding: 13px;
+    background-color: #1A0931;
+}
+
+.sidebar img {
+width: 19px;
+}
